@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:06b6d4&height=220&section=header&text=NAJWA%20NAHDATUL%20HUDA&fontSize=35&fontColor=ffffff&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Developer&descAlignY=58&descSize=16&animation=fadeIn" />
 
@@ -9,8 +9,16 @@
 <a href="https://github.com/NajwanH12">
 <img src="https://img.shields.io/badge/GitHub-NajwanH12-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://najwaprofile.42web.io/">
+<img src="https://img.shields.io/badge/My%20Portfolio-Visit%20Website-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 <img src="https://img.shields.io/badge/Location-Indonesia-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/Focus-Software%20Development-0f172a?style=for-the-badge&logo=code&logoColor=38bdf8"/>
+
+<br/><br/>
+
+<a href="https://najwaprofile.42web.io/"><strong>🌐 EXPLORE MY PERSONAL PORTFOLIO →</strong></a>
 
 </div>
 
@@ -25,6 +33,12 @@
 Hi! I'm **Najwa Nahdatul Huda**, an Information Systems student at **Politeknik Negeri Padang, Indonesia**.
 
 I'm passionate about technology, software development, and creating digital solutions. I enjoy exploring new technologies and transforming ideas into functional applications.
+
+- 🎓 Information Systems Student.
+- 💻 Interested in Web Development and Software Engineering.
+- 🌱 Currently learning React, Laravel, Node.js, and Flutter.
+- 🎨 Interested in UI/UX Design.
+- 🚀 Building applications and exploring new technologies.
 
 ```javascript
 const najwa = {
@@ -51,9 +65,21 @@ const najwa = {
 
 <div align="center">
 
-## ✦ TECHNOLOGY ARSENAL ✦
+## ✦ MY PORTFOLIO ✦
 
-*Tools and technologies I use to build things.*
+<a href="https://najwaprofile.42web.io/">
+<img src="https://img.shields.io/badge/VISIT%20MY%20WEBSITE- najwaprofile.42web.io-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+**Explore my personal portfolio to discover more about me and my work.**
+
+</div>
+
+---
+
+<div align="center">
+
+## ✦ TECHNOLOGY ARSENAL ✦
 
 ### Programming Languages
 
@@ -79,11 +105,11 @@ const najwa = {
 
 | Focus | Description |
 |---|---|
-| 🌐 Web Development | Creating responsive and interactive websites |
-| 🛒 E-Commerce | Building digital shopping experiences |
-| ⚙️ Backend Development | Exploring REST APIs and server-side applications |
-| 📱 Mobile Development | Learning Flutter application development |
-| 🎨 UI/UX Design | Creating intuitive and attractive interfaces |
+| 🌐 Web Development | Responsive and interactive websites |
+| 🛒 E-Commerce | Digital shopping experiences |
+| ⚙️ Backend Development | REST API and server-side applications |
+| 📱 Mobile Development | Flutter applications |
+| 🎨 UI/UX Design | Attractive and intuitive interfaces |
 
 ---
 
@@ -93,12 +119,10 @@ const najwa = {
 
 </div>
 
-Here are some areas of development I enjoy working on:
-
-- **UMKM Ordering System** — A web-based ordering and management system for small businesses.
-- **E-Commerce Application** — A product catalog and shopping interface.
-- **REST API Development** — Learning backend integration and data management.
-- **Flutter Applications** — Exploring mobile app development.
+- **UMKM Ordering System** — Web-based ordering and management system.
+- **E-Commerce Application** — Product catalog and shopping interface.
+- **REST API Development** — Backend integration and data management.
+- **Flutter Applications** — Mobile application development.
 
 ---
 
@@ -107,9 +131,10 @@ Here are some areas of development I enjoy working on:
 ## ✦ GITHUB ANALYTICS ✦
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NajwanH12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajwanH12&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=NajwanH12&theme=tokyonight&hide_border=true" />
 
@@ -121,7 +146,13 @@ Here are some areas of development I enjoy working on:
 
 ## ✦ CONTRIBUTION ACTIVITY ✦
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NajwanH12&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NajwanH12&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Najwa's GitHub Contribution Activity Graph" />
+
+<br/><br/>
+
+### Contribution Calendar
+
+<img src="https://ghchart.rshah.org/38bdf8/NajwanH12" width="100%" alt="Najwa's GitHub Contribution Calendar" />
 
 </div>
 
@@ -133,6 +164,10 @@ Here are some areas of development I enjoy working on:
 
 <a href="https://github.com/NajwanH12">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://najwaprofile.42web.io/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br/><br/>
