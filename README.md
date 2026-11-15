@@ -144,11 +144,82 @@ const najwa = {
 
 <div align="center">
 
-## ✦ CONTRIBUTION ACTIVITY ✦
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NajwanH12&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Najwa's GitHub Contribution Activity Graph" />
+## ✦ ENGINEERING MINDSET ✦
+
+### More Than Just Writing Code.
+
+*I believe great software is built through creativity, logic, and continuous improvement.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Problem Solving
+
+Breaking complex problems into simple, effective solutions.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ System Development
+
+Building functional applications with structured development workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧹 Clean Code
+
+Writing readable, maintainable, and organized code.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 Debugging & Testing
+
+Finding issues, testing functionality, and improving application reliability.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ✦ DEVELOPMENT WORKFLOW ✦
+
+<img src="https://img.shields.io/badge/01-PLAN-0f172a?style=for-the-badge&logo=notion&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/02-DESIGN-0f172a?style=for-the-badge&logo=figma&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/03-DEVELOP-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/04-TEST-0f172a?style=for-the-badge&logo=testinglibrary&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/05-IMPROVE-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" />
 
 <br/><br/>
+
+### Turning Ideas Into Real Applications.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&lines=Think+%E2%86%92+Design+%E2%86%92+Develop;Debug+%E2%86%92+Test+%E2%86%92+Improve;Never+Stop+Learning." />
+
+</div>
+
+---
+
+<div align="center">
+
+## ✦ MY DEVELOPER PHILOSOPHY ✦
+
+**"Great developers don't just write code. They create solutions that matter."**
+
+*Think logically. Build creatively. Improve continuously.*
+
+</div>
 
 ### Contribution Calendar
 
